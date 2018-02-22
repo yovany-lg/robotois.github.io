@@ -9,28 +9,28 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---docs-servo-controller-html": [
-      "path---docs-servo-controller-html-59f7d5c8d44eaa43297c.js",
-      "path---docs-servo-controller-html-59f7d5c8d44eaa43297c.js.map"
+      "path---docs-servo-controller-html-95df6dda29234bb26c97.js",
+      "path---docs-servo-controller-html-95df6dda29234bb26c97.js.map"
     ],
     "path---docs-rotary-sensor-html": [
-      "path---docs-rotary-sensor-html-88e7c31ab9a95034f7a0.js",
-      "path---docs-rotary-sensor-html-88e7c31ab9a95034f7a0.js.map"
+      "path---docs-rotary-sensor-html-9b1377b9617b4897ed26.js",
+      "path---docs-rotary-sensor-html-9b1377b9617b4897ed26.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-a87cfaf93d9ff293ab9e.js",
       "component---src-layouts-index-js-a87cfaf93d9ff293ab9e.js.map"
     ],
     "path---docs-button-html": [
-      "path---docs-button-html-eada6c60356944f196d5.js",
-      "path---docs-button-html-eada6c60356944f196d5.js.map"
+      "path---docs-button-html-407c355dc712e2a22004.js",
+      "path---docs-button-html-407c355dc712e2a22004.js.map"
     ],
     "path---page-2": [
       "path---page-2-a0e39f21c11f6a62c5ab.js",
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-motor-controller-html": [
-      "path---docs-motor-controller-html-9df9b085241dab387320.js",
-      "path---docs-motor-controller-html-9df9b085241dab387320.js.map"
+      "path---docs-motor-controller-html-f640a36c3ed8516f6ce1.js",
+      "path---docs-motor-controller-html-f640a36c3ed8516f6ce1.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -53,44 +53,44 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-distance-sensor-html": [
-      "path---docs-distance-sensor-html-3f2e8a30c24b7eb56507.js",
-      "path---docs-distance-sensor-html-3f2e8a30c24b7eb56507.js.map"
+      "path---docs-distance-sensor-html-3fc007c2fdb3b51095aa.js",
+      "path---docs-distance-sensor-html-3fc007c2fdb3b51095aa.js.map"
     ],
     "path---docs-line-sensors-html": [
-      "path---docs-line-sensors-html-177e2c034387d22ec42a.js",
-      "path---docs-line-sensors-html-177e2c034387d22ec42a.js.map"
+      "path---docs-line-sensors-html-b944017aac39622f9590.js",
+      "path---docs-line-sensors-html-b944017aac39622f9590.js.map"
     ],
     "path---docs-led-html": [
-      "path---docs-led-html-6172b0f4452fc88daaf8.js",
-      "path---docs-led-html-6172b0f4452fc88daaf8.js.map"
+      "path---docs-led-html-b3931107dde9d29fa7dc.js",
+      "path---docs-led-html-b3931107dde9d29fa7dc.js.map"
     ],
     "component---src-pages-page-2-js": [
       "component---src-pages-page-2-js-814c3250cda4a015aef7.js",
       "component---src-pages-page-2-js-814c3250cda4a015aef7.js.map"
     ],
     "app": [
-      "app-ad88d4365a30399197d5.js",
-      "app-ad88d4365a30399197d5.js.map"
+      "app-e120cd428f52394d7632.js",
+      "app-e120cd428f52394d7632.js.map"
     ],
     "path---docs-lcd-display-html": [
-      "path---docs-lcd-display-html-6e59b1ad9cae746d67d1.js",
-      "path---docs-lcd-display-html-6e59b1ad9cae746d67d1.js.map"
+      "path---docs-lcd-display-html-e4a471ddf01a779bf662.js",
+      "path---docs-lcd-display-html-e4a471ddf01a779bf662.js.map"
     ],
     "component---src-templates-docs-js": [
       "component---src-templates-docs-js-d0e3d21acb3fb98ab3d3.js",
       "component---src-templates-docs-js-d0e3d21acb3fb98ab3d3.js.map"
     ],
     "path---docs-rgb-leds-html": [
-      "path---docs-rgb-leds-html-f43d43948b22fed2636b.js",
-      "path---docs-rgb-leds-html-f43d43948b22fed2636b.js.map"
+      "path---docs-rgb-leds-html-e26d46cf7ce2f8d5f579.js",
+      "path---docs-rgb-leds-html-e26d46cf7ce2f8d5f579.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---docs-light-sensor-html": [
-      "path---docs-light-sensor-html-c890e3ed2a71551b7e88.js",
-      "path---docs-light-sensor-html-c890e3ed2a71551b7e88.js.map"
+      "path---docs-light-sensor-html-622912a60905e5cb512b.js",
+      "path---docs-light-sensor-html-622912a60905e5cb512b.js.map"
     ]
   }
 }
